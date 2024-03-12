@@ -3,7 +3,7 @@
 🔭 I’m currently working as a Sales and Marketing Specialist but I also love working with various technologies.
   
 🌱 I’m currently learning about:
-  - manual software testing and test automation (with Playwright)
+  - manual software testing and test automation
   - fullstack development (JavaScript, Astro, Vue.js, Nuxt, PHP, Prestashop)
 
 📫 How to reach me: contact@simonjanik.com
