@@ -6,7 +6,7 @@
   - fullstack development (PHP, JavaScript, React, Astro, WordPress, Prestashop),
   - manual software testing and test automation.
 
-📫 How to reach me: contact@simonjanik.com or https://netblogger.net/contact
+📫 How to reach me: https://netblogger.net/contact
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
