@@ -4,7 +4,7 @@
   
 🌱 I’m currently learning about:
   - fullstack development (PHP, JavaScript, React, WordPress, Prestashop),
-  - Linux System Administration.
+  - Linux System Administration (LFCS, CompTIA)
 
 📫 How to reach me: https://netblogger.net/contact
 
