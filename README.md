@@ -3,8 +3,8 @@
 🔭 I’m working as a Webmaster & Sales and Marketing Specialist. I also love working with various technologies.
   
 🌱 I’m currently learning about:
-  - fullstack development (PHP, JavaScript, React, Astro, WordPress, Prestashop),
-  - manual software testing and test automation.
+  - fullstack development (PHP, JavaScript, React, WordPress, Prestashop),
+  - Linux System Administration.
 
 📫 How to reach me: https://netblogger.net/contact
 
@@ -13,5 +13,5 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)
