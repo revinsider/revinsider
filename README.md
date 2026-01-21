@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Simon Janik
 
-🔭 work as a Webmaster and Marketing & Customer Service Specialist. I combine technical competencies with clear client communication on a daily basis.
+🔭 I work as a Webmaster and Marketing & Customer Service Specialist. I combine technical competencies with clear client communication on a daily basis.
   
 🌱 I’m currently learning about Linux server administration (AlmaLinux, CloudLinux OS, Ubuntu on Proxmox) and full-stack web development (PHP, JavaScript, WordPress / WooCommerce, Joomla, and PrestaShop).
 
