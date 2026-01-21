@@ -3,8 +3,8 @@
 🔭 I’m working as a Webmaster & Sales and Marketing Specialist. I also love working with various technologies.
   
 🌱 I’m currently learning about:
-  - fullstack development (PHP, JavaScript, React, WordPress, Prestashop),
   - Linux System Administration (LFCS, CompTIA)
+  - fullstack web development (PHP, JavaScript, React, WordPress, Prestashop, Python),
 
 📫 How to reach me: https://netblogger.net/contact
 
