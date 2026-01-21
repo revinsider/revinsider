@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Simon Janik
 
-🔭 I’m working as a Webmaster & Sales and Marketing Specialist. I also love working with various technologies.
+🔭 work as a Webmaster and Marketing & Customer Service Specialist. I combine technical competencies with clear client communication on a daily basis.
   
-🌱 I’m currently learning about:
-  - Linux System Administration (LFCS, CompTIA)
-  - fullstack web development (PHP, JavaScript, React, WordPress, Prestashop, Python),
+🌱 I’m currently learning about Linux server administration (AlmaLinux, CloudLinux OS, Ubuntu on Proxmox) and full-stack web development (PHP, JavaScript, WordPress / WooCommerce, Joomla, and PrestaShop).
+
+Currently, I'm preparing for CompTIA A+, CompTIA Network+, and CompTIA Linux+ certifications.
 
 📫 How to reach me: https://netblogger.net/contact
 
